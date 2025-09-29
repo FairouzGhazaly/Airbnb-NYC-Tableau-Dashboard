@@ -62,5 +62,5 @@ The dataset used is the **Airbnb NYC 2019** public dataset, which includes infor
 
 ## Dashboard Preview  
 You can find the link to my dashboard [here](https://public.tableau.com/app/profile/fairouz.ghazaly/viz/AirbnbNYC2019_17408273775230/Dashboard1)
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/9c8edbb0-e5af-4960-ad73-d2e67ba2caad" />
+<img width="1914" height="1040" alt="image" src="https://github.com/user-attachments/assets/aadf5607-1d27-4c19-8b0b-cf8c291c2be0" />
 
