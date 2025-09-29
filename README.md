@@ -60,7 +60,7 @@ The dataset used is the **Airbnb NYC 2019** public dataset, which includes infor
 - Tableau enables **interactive insights into real-world business datasets**.  
 
 
-## 📷 Dashboard Preview  
+## Dashboard Preview  
 You can find the link to my dashboard [here](https://public.tableau.com/app/profile/fairouz.ghazaly/viz/AirbnbNYC2019_17408273775230/Dashboard1)
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/9c8edbb0-e5af-4960-ad73-d2e67ba2caad" />
 
